@@ -12,12 +12,18 @@ void fun()
 {
 	std:cout<<"Hola";
 }
-	int feature1{
-		return 1;
+	int featureinfy2
+	{
 	}
-	int feature4{
-		return 9;
+
+	int featureinfy
+	{
 	}
+	int featureinfy1
+	{
+	}
+	
+
 	int feature5{
 		return 5;
 	}
