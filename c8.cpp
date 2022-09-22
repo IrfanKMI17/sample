@@ -7,6 +7,10 @@ void fun()
 {
 	std:cout<<"Hola";
 }
+	int hola
+	{
+		return 0;
+	}
 }
 
 
