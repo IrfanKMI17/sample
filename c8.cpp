@@ -6,6 +6,7 @@ int j=10;
 	int a=10;
 	int b=20;
 	int e=20;
+	int f=12;
 void fun()
 {
 	std:cout<<"Hola";
@@ -15,6 +16,9 @@ void fun()
 	}
 	int feature4{
 		return 9;
+	}
+	int feature5{
+		return 5;
 	}
 }
 int featurn6{
