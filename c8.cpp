@@ -7,6 +7,7 @@ int j=10;
 
 	int e=20;
 	int f=12;
+	int  h=12;
 void fun()
 {
 	std:cout<<"Hola";
