@@ -15,6 +15,9 @@ void fun()
 	int feature1{
 		return 1;
 	}
+	int featureinfy
+	{
+	}
 	int feature4{
 		return 9;
 	}
