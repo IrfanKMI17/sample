@@ -3,6 +3,7 @@ int main()
 {
 int i=1;
 int j=10;
+	int  k=12;
 
 	int e=20;
 	int f=12;
@@ -20,6 +21,7 @@ void fun()
 		return 5;
 	}
 }
+
 int featurn6{
 	return 7;
 }
