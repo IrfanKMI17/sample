@@ -17,6 +17,9 @@ void fun()
 		return 9;
 	}
 }
+int featurn6{
+	return 7;
+}
 
 
 
