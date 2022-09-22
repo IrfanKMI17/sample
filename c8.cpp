@@ -18,9 +18,8 @@ void fun()
 	int featureinfy
 	{
 	}
-	int feature4{
-		return 9;
-	}
+	
+
 	int feature5{
 		return 5;
 	}
