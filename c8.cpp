@@ -20,6 +20,10 @@ void fun()
 	int feature5{
 		return 5;
 	}
+	int feature6
+	{
+		return 7;
+	}
 }
 int featurn6{
 	return 7;
