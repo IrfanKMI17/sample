@@ -17,6 +17,10 @@ void fun()
 	{
 		return 0;
 	}
+	int feature3
+	{
+		return 1;
+	}
 }
 
 
