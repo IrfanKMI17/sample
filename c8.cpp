@@ -12,8 +12,14 @@ void fun()
 {
 	std:cout<<"Hola";
 }
+	int featureinfy2
+	{
+	}
 
 	int featureinfy
+	{
+	}
+	int featureinfy1
 	{
 	}
 	
