@@ -9,11 +9,7 @@ void fun()
 {
 	std:cout<<"Hola";
 }
-	void fun2()
-	{
-		std:cout<<"helo";
-	}
-}
+
 
 
 
