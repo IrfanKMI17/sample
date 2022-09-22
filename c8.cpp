@@ -12,9 +12,7 @@ void fun()
 {
 	std:cout<<"Hola";
 }
-	int feature1{
-		return 1;
-	}
+
 	int featureinfy
 	{
 	}
