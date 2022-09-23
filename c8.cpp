@@ -22,6 +22,10 @@ void fun()
 	int featureinfy1
 	{
 	}
+	int newone()
+	{
+	}
+	
 	
 
 	int feature5{
