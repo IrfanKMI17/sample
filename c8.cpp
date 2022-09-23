@@ -1,10 +1,1 @@
-	int featureinfy
-	{
-	}
-	int raw()
-	{
-	}
-	
-	int featureinfy1
-	{
-	}
+int featureinfys
