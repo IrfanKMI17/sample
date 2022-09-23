@@ -8,9 +8,7 @@ int featureinfy2
 	int featureinfy1
 	{
 	}
-	int newone()
-	{
-	}
+
 	
 	
 
