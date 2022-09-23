@@ -1,7 +1,4 @@
-void fun()
-{
-	std:cout<<"Hola";
-}
+
 	int featureinfy2
 	{
 	}
