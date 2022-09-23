@@ -8,17 +8,14 @@ int featureinfy2
 	int featureinfy1
 	{
 	}
-
-	
-	
-
-	int feature5{
-		return 5;
-	}
-	int feature6
+	int newone()
 	{
-		return 7;
 	}
+
+	
+	
+
+	
 
 
 
