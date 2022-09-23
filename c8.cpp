@@ -1,7 +1,6 @@
 	int featureinfy1
 	{
 	}
-	
-	int featureinfy2
-	{
+	int feature5{
+		return 5;
 	}
