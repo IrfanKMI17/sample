@@ -21,11 +21,7 @@ int featureinfy2
 	{
 		return 7;
 	}
-}
 
-int featurn6{
-	return 7;
-}
 
 
 
